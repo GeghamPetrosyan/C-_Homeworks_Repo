@@ -11,17 +11,18 @@ namespace Project_Run_Point
 {
     internal class Grafics
     {
-        static void main()
+       public static void Main()
         { 
             Point point_1_obj = new Point { X=0,Y=0};
-            Point point_2_obj = new Point { X = 5, Y = 0 };
+            Point point_2_obj = new Point { X = 55, Y = 50 };
             Line line_obj=new Line(point_1_obj,point_2_obj);  
             
-            ConsoleColor consoleColor_obj=new ConsoleColor();
+           // ConsoleColor consoleColor_obj=new ConsoleColor();
 
-            ColoredLine obj=new ColoredLine(line_obj,consoleColor_obj);
+            ColoredLine obj=new ColoredLine(line_obj,(ConsoleColor)11);
             obj.DrawLine();
            
+Console.Read();
 
         }
     }
