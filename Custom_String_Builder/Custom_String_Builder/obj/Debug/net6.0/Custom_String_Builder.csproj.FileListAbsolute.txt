@@ -1,0 +1,15 @@
+C:\Users\geram\Desktop\C# Advanced(ACA)\Projects\Git_Repo\C-_Homeworks_Repo\Custom_String_Builder\Custom_String_Builder\bin\Debug\net6.0\Custom_String_Builder.exe
+C:\Users\geram\Desktop\C# Advanced(ACA)\Projects\Git_Repo\C-_Homeworks_Repo\Custom_String_Builder\Custom_String_Builder\bin\Debug\net6.0\Custom_String_Builder.deps.json
+C:\Users\geram\Desktop\C# Advanced(ACA)\Projects\Git_Repo\C-_Homeworks_Repo\Custom_String_Builder\Custom_String_Builder\bin\Debug\net6.0\Custom_String_Builder.runtimeconfig.json
+C:\Users\geram\Desktop\C# Advanced(ACA)\Projects\Git_Repo\C-_Homeworks_Repo\Custom_String_Builder\Custom_String_Builder\bin\Debug\net6.0\Custom_String_Builder.dll
+C:\Users\geram\Desktop\C# Advanced(ACA)\Projects\Git_Repo\C-_Homeworks_Repo\Custom_String_Builder\Custom_String_Builder\bin\Debug\net6.0\Custom_String_Builder.pdb
+C:\Users\geram\Desktop\C# Advanced(ACA)\Projects\Git_Repo\C-_Homeworks_Repo\Custom_String_Builder\Custom_String_Builder\obj\Debug\net6.0\Custom_String_Builder.csproj.AssemblyReference.cache
+C:\Users\geram\Desktop\C# Advanced(ACA)\Projects\Git_Repo\C-_Homeworks_Repo\Custom_String_Builder\Custom_String_Builder\obj\Debug\net6.0\Custom_String_Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geram\Desktop\C# Advanced(ACA)\Projects\Git_Repo\C-_Homeworks_Repo\Custom_String_Builder\Custom_String_Builder\obj\Debug\net6.0\Custom_String_Builder.AssemblyInfoInputs.cache
+C:\Users\geram\Desktop\C# Advanced(ACA)\Projects\Git_Repo\C-_Homeworks_Repo\Custom_String_Builder\Custom_String_Builder\obj\Debug\net6.0\Custom_String_Builder.AssemblyInfo.cs
+C:\Users\geram\Desktop\C# Advanced(ACA)\Projects\Git_Repo\C-_Homeworks_Repo\Custom_String_Builder\Custom_String_Builder\obj\Debug\net6.0\Custom_String_Builder.csproj.CoreCompileInputs.cache
+C:\Users\geram\Desktop\C# Advanced(ACA)\Projects\Git_Repo\C-_Homeworks_Repo\Custom_String_Builder\Custom_String_Builder\obj\Debug\net6.0\Custom_String_Builder.dll
+C:\Users\geram\Desktop\C# Advanced(ACA)\Projects\Git_Repo\C-_Homeworks_Repo\Custom_String_Builder\Custom_String_Builder\obj\Debug\net6.0\refint\Custom_String_Builder.dll
+C:\Users\geram\Desktop\C# Advanced(ACA)\Projects\Git_Repo\C-_Homeworks_Repo\Custom_String_Builder\Custom_String_Builder\obj\Debug\net6.0\Custom_String_Builder.pdb
+C:\Users\geram\Desktop\C# Advanced(ACA)\Projects\Git_Repo\C-_Homeworks_Repo\Custom_String_Builder\Custom_String_Builder\obj\Debug\net6.0\Custom_String_Builder.genruntimeconfig.cache
+C:\Users\geram\Desktop\C# Advanced(ACA)\Projects\Git_Repo\C-_Homeworks_Repo\Custom_String_Builder\Custom_String_Builder\obj\Debug\net6.0\ref\Custom_String_Builder.dll
