@@ -453,7 +453,6 @@ namespace CustomStringBuilder
             //Console.WriteLine("On Blank: " + customSB.OnBlank("Default"));
 
             StringBuilderAsLinkedList SB_obj = new StringBuilderAsLinkedList();
-            //   Console.WriteLine( SB_obj.GetString());
             SB_obj.Append("helloWorld");
             Console.WriteLine(SB_obj.GetString());
             Console.WriteLine(SB_obj.Length());
